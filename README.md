@@ -1,2 +1,2 @@
 # Website_telefony
-Simple empty site
+Simple empty site with hamburger menu.
